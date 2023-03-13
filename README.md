@@ -1,6 +1,6 @@
 # My-food-payment-allocation-algorithm
 
-An algorithm to determine the amount of money a person must pay for food if he/she will spend 'n' number of days at the hostel per month.
+An algorithm to determine the amount of money a person must pay for food if he/she will spend 'n' number of days away from the hostel per month.
 
 # How it works
 
