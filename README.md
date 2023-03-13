@@ -23,7 +23,7 @@ node paySchedule.js
 
 # Application
 
-I created this algorithm to help the males in my hostel during our National Youth Service Program to adopt an better means of establishing our monthly bills on feeding. The idea and algorithm was very welcome, haven proved effective to replace the previous herculean mental task of deciding the amount to pay. Also, no body will feel cheated if he/she will be absent a particular number of days, since the algorithm predicts the best amount he/she will pay given the number of days he/she will be absent.
+I created this algorithm to help the males in my hostel during our National Youth Service Program to adopt a better means of establishing our monthly bills on feeding. The idea and algorithm was very welcome, haven proved effective to replace the previous herculean mental task of deciding the amount to pay. Also, no body will feel cheated if he/she will be absent a particular number of days, since the algorithm predicts the best amount he/she will pay given the number of days he/she will be absent.
 
 # Credits
 
