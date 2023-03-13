@@ -17,6 +17,10 @@ To run the app, with the default name, use the code snippet below:
 node paySchedule.js
 ```
 
+# Application
+
+I created this algorithm to help the males in my hostel during our National Youth Service Program to adopt an better means of establishing our monthly bills on feeding. The idea and algorithm was very welcome.
+
 # Credits
 
 Developed by P.T. Chukwuezi, open to contribution, corrections and modifications. Also available as an instructional material.
